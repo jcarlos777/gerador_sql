@@ -6,4 +6,5 @@ if confirmar == "s"
     puts "DROP TABLE dados"
 else
     puts "A tabela permanece por enquanto."
-    
+end
+
